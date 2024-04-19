@@ -12,3 +12,5 @@ I developed a travel application using HTML, CSS, and Javascript. An interactive
 <h4>IMAGE</h4>
 
 ![](images/Screen%20Recording%202024-04-18%20at%2008.49.25.21%20PM.gif)
+
+<h2>Designed by Hüseyin ASLAN</h2>
