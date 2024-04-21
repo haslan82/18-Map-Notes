@@ -99,6 +99,7 @@ function handleSubmit(e) {
 
   /* local storage güncelleme */
 
+
   setStorage(notes);
 
   /* Notları ekrana aaktarabilmek için fonksiyona notes dizisini parametre olarak gönderdik */
@@ -174,3 +175,4 @@ renderNoteList(notes);
     map.flyTo(note.coords);
   }
 };
+
