@@ -3,7 +3,7 @@
 I developed a travel application using HTML, CSS, and Javascript. An interactive platform where you can take notes on the map: Mark your work, home, travel, and car parking spots and save them with their details! Select the place you want on the map, add dates and details, easily manage your plans, and save your notes.
 
 
-
+### Used Technologies
 - HTML5
 - CSS3
 - JavaScript
